@@ -95,7 +95,6 @@ run the app using
 
 ☁️ Optional integration with LangChain or RAG workflows
 
-## Demo Snapshot
 
 
 
