@@ -3,6 +3,17 @@
 A Python-based tool to generate structured, synthetic job postings using open-source LLMs from Hugging Face.  
 This project supports both **script-based execution** and an **interactive Colab notebook**, making it ideal for rapid prototyping, dataset bootstrapping, or demonstrating prompt engineering techniques.
 
+
+
+![Demo Screenshot](https://github.com/user-attachments/assets/c0e229ac-ddb7-4a37-8088-f04ca735cd81)
+
+
+This tool helps:
+- Researchers create labeled training data for NLP classification or QA
+- HR tech startups prototype recommendation models
+- AI instructors demonstrate few-shot prompting in class
+
+  
 ---
 
 ## ✨ Features
@@ -86,6 +97,6 @@ run the app using
 
 ## Demo Snapshot
 
-![image](https://github.com/user-attachments/assets/c0e229ac-ddb7-4a37-8088-f04ca735cd81)
+
 
 
