@@ -1,9 +1,17 @@
 # 🧠 Synthetic Data Generator
 
-A simple Python-based tool and Colab demo to generate synthetic data using Hugging Face models. 
-This project supports both script-based and notebook-based workflows and is great for bootstrapping AI/ML datasets or prototyping text generation pipelines.
+A Python-based tool to generate structured, synthetic job postings using open-source LLMs from Hugging Face.  
+This project supports both **script-based execution** and an **interactive Colab notebook**, making it ideal for rapid prototyping, dataset bootstrapping, or demonstrating prompt engineering techniques.
 
 ---
+
+## ✨ Features
+
+- 🔗 Integrates Hugging Face Transformer models
+- 📄 Generates realistic job postings in structured JSON format
+- 🧪 Supports prompt engineering with control over output length and variability
+- 🧠 Minimal Gradio UI for non-technical users
+- 📓 Jupyter/Colab support for experimentation and reproducibility
 
 ## 📂 Project Structure
 <pre> ```
@@ -42,4 +50,18 @@ You need to create a `.env` file with your HuggingFace token like `HF_TOKEN=your
 ### Run
 run the app using
 `python app/app.py`
+
+## Future Improvements
+🔁 Add support for more job roles and industries
+
+🧠 Model selector from UI
+
+💾 Export dataset as CSV
+
+☁️ Optional integration with LangChain or RAG workflows
+
+## Demo Snapshot
+
+![image](https://github.com/user-attachments/assets/c0e229ac-ddb7-4a37-8088-f04ca735cd81)
+
 
